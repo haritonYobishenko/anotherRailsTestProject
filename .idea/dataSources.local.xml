@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails anotherRailsTest: development" uuid="c0a4191a-1cd3-4ed5-88b9-ce7d4c1af483">
+      <user-name>rails</user-name>
+      <user-password>df9bdf98df99df9e</user-password>
+      <schema-pattern>railsTest_development.pg_catalog railsTest_development.public</schema-pattern>
+      <default-schemas>railsTest_development.pg_catalog railsTest_development.public</default-schemas>
+    </data-source>
+    <data-source name="Rails anotherRailsTest: test" uuid="38dfedab-b9e5-4b9d-baee-9c79aef870c2">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails anotherRailsTest: production" uuid="9c61d692-1138-491a-b12b-4275f49b8d39">
+      <first-sync>true</first-sync>
+      <user-name>railsTest</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfebdfe3dfe6dff9dffedfefdff9dffedff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
